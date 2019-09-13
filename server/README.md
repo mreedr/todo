@@ -10,7 +10,7 @@ Since we only want our "Pointy-haired-boss" to be able to use this application, 
 `$ yarn addUser`
 
 **Run**
-Starting the server in development mode will cause it to restart whenever we make any changes.
+Starting the server in development mode will cause it to restart whenever we make any changes. Default port `3001`
 `$ yarn dev`
 
 Starting the server in production mode
